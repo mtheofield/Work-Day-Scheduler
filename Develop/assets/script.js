@@ -1,6 +1,4 @@
 
-var m = moment();
-
 $("#currentDay").text(moment().format('LL'));
 
 
